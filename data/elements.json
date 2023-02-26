@@ -1,0 +1,536 @@
+[
+    {
+        "Name": "Hydrogen",
+        "Appearance": "colorless",
+        "Phase": "gas",
+        "Density": "0.08988"
+    },
+    {
+        "Name": "Helium",
+        "Appearance": "colorless",
+        "Phase": "gas",
+        "Density": "0.1786"
+    },
+    {
+        "Name": "Lithium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "0.534"
+    },
+    {
+        "Name": "Beryllium",
+        "Appearance": "white-gray",
+        "Phase": "solid",
+        "Density": "1.85"
+    },
+    {
+        "Name": "Boron",
+        "Appearance": "black/brown",
+        "Phase": "solid",
+        "Density": "2.34"
+    },
+    {
+        "Name": "Carbon",
+        "Appearance": "black",
+        "Phase": "solid",
+        "Density": "2.267"
+    },
+    {
+        "Name": "Nitrogen",
+        "Appearance": "colorless",
+        "Phase": "gas",
+        "Density": "1.251"
+    },
+    {
+        "Name": "Oxygen",
+        "Appearance": "colorless",
+        "Phase": "gas",
+        "Density": "1.429"
+    },
+    {
+        "Name": "Fluorine",
+        "Appearance": "Yellowish",
+        "Phase": "gas",
+        "Density": "1.7"
+    },
+    {
+        "Name": "Neon",
+        "Appearance": "colorless",
+        "Phase": "gas",
+        "Density": "0.9002"
+    },
+    {
+        "Name": "Sodium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "0.968"
+    },
+    {
+        "Name": "Magnesium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "1.738"
+    },
+    {
+        "Name": "Aluminium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "2.70"
+    },
+    {
+        "Name": "Silicon",
+        "Appearance": "dark",
+        "Phase": "solid",
+        "Density": "2.33"
+    },
+    {
+        "Name": "Phosphorus",
+        "Appearance": "waxy",
+        "Phase": "solid",
+        "Density": "1.823"
+    },
+    {
+        "Name": "Sulfur",
+        "Appearance": "lemon",
+        "Phase": "solid",
+        "Density": "2.07"
+    },
+    {
+        "Name": "Chlorine",
+        "Appearance": "yellowish",
+        "Phase": "gas",
+        "Density": "3.2"
+    },
+    {
+        "Name": "Argon",
+        "Appearance": "colorless",
+        "Phase": "gas (At room temperature)",
+        "Density": "1.784"
+    },
+    {
+        "Name": "Potassium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "0.89"
+    },
+    {
+        "Name": "Calcium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "1.55"
+    },
+    {
+        "Name": "Scandium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "2.985"
+    },
+    {
+        "Name": "Titanium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "4.506"
+    },
+    {
+        "Name": "Vanadium",
+        "Appearance": "silver-grey",
+        "Phase": "solid",
+        "Density": "6.0"
+    },
+    {
+        "Name": "Chromium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "7.15"
+    },
+    {
+        "Name": "Manganese",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "7.21"
+    },
+    {
+        "Name": "Iron",
+        "Appearance": "lustrous",
+        "Phase": "solid",
+        "Density": "7.86"
+    },
+    {
+        "Name": "Nickel",
+        "Appearance": "lustrous,",
+        "Phase": "solid",
+        "Density": "8.908"
+    },
+    {
+        "Name": "Copper",
+        "Appearance": "metallic",
+        "Phase": "solid",
+        "Density": "8.96"
+    },
+    {
+        "Name": "Zinc",
+        "Appearance": "bluish",
+        "Phase": "solid",
+        "Density": "7.14"
+    },
+    {
+        "Name": "Gallium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "5.91"
+    },
+    {
+        "Name": "Germanium",
+        "Appearance": "grayish",
+        "Phase": "solid",
+        "Density": "5.323"
+    },
+    {
+        "Name": "Arsenic",
+        "Appearance": "metallic",
+        "Phase": "solid",
+        "Density": "5.727"
+    },
+    {
+        "Name": "Selenium",
+        "Appearance": "gray-black,",
+        "Phase": "solid",
+        "Density": "4.81"
+    },
+    {
+        "Name": "Bromine",
+        "Appearance": "gas/liquid:",
+        "Phase": "liquid",
+        "Density": "3.1028"
+    },
+    {
+        "Name": "Krypton",
+        "Appearance": "colorless",
+        "Phase": "gas",
+        "Density": "3.749"
+    },
+    {
+        "Name": "Rubidium",
+        "Appearance": "grey",
+        "Phase": "solid",
+        "Density": "1.532"
+    },
+    {
+        "Name": "Strontium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "2.64"
+    },
+    {
+        "Name": "Yttrium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "4.472"
+    },
+    {
+        "Name": "Zirconium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "6.52"
+    },
+    {
+        "Name": "Niobium",
+        "Appearance": "gray",
+        "Phase": "solid",
+        "Density": "8.57"
+    },
+    {
+        "Name": "Molybdenum",
+        "Appearance": "gray",
+        "Phase": "solid",
+        "Density": "10.28"
+    },
+    {
+        "Name": "Rhodium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "12.41"
+    },
+    {
+        "Name": "Palladium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "12.023"
+    },
+    {
+        "Name": "Silver",
+        "Appearance": "lustrous",
+        "Phase": "solid",
+        "Density": "10.49"
+    },
+    {
+        "Name": "Cadmium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "8.65"
+    },
+    {
+        "Name": "Indium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "7.31"
+    },
+    {
+        "Name": "Tin",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "7.265"
+    },
+    {
+        "Name": "Antimony",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "6.697"
+    },
+    {
+        "Name": "Tellurium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "6.24"
+    },
+    {
+        "Name": "Iodine",
+        "Appearance": "violet-dark",
+        "Phase": "solid",
+        "Density": "4.933"
+    },
+    {
+        "Name": "Xenon",
+        "Appearance": "colorless",
+        "Phase": "gas",
+        "Density": "5.894"
+    },
+    {
+        "Name": "Caesium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "1.93"
+    },
+    {
+        "Name": "Barium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "3.51"
+    },
+    {
+        "Name": "Hafnium",
+        "Appearance": "gray",
+        "Phase": "solid",
+        "Density": "13.31"
+    },
+    {
+        "Name": "Tantalum",
+        "Appearance": "gray",
+        "Phase": "solid",
+        "Density": "16.69"
+    },
+    {
+        "Name": "Tungsten",
+        "Appearance": "grayish",
+        "Phase": "solid",
+        "Density": "19.25"
+    },
+    {
+        "Name": "Rhenium",
+        "Appearance": "grayish",
+        "Phase": "solid",
+        "Density": "21.02"
+    },
+    {
+        "Name": "Osmium",
+        "Appearance": "silvery,",
+        "Phase": "solid",
+        "Density": "22.61"
+    },
+    {
+        "Name": "Iridium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "22.65"
+    },
+    {
+        "Name": "Platinum",
+        "Appearance": "grayish",
+        "Phase": "solid",
+        "Density": "21.45"
+    },
+    {
+        "Name": "Gold",
+        "Appearance": "metallic",
+        "Phase": "solid",
+        "Density": "19.3"
+    },
+    {
+        "Name": "Mercury (element)",
+        "Appearance": "silvery",
+        "Phase": "liquid",
+        "Density": "13.534"
+    },
+    {
+        "Name": "Thallium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "11.85"
+    },
+    {
+        "Name": "Lead",
+        "Appearance": "bluish",
+        "Phase": "solid",
+        "Density": "11.34"
+    },
+    {
+        "Name": "Bismuth",
+        "Appearance": "lustrous",
+        "Phase": "solid",
+        "Density": "9.78"
+    },
+    {
+        "Name": "Polonium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "9.196"
+    },
+    {
+        "Name": "Radon",
+        "Appearance": "colorless",
+        "Phase": "gas",
+        "Density": "9.73"
+    },
+    {
+        "Name": "Francium",
+        "Appearance": "metallic",
+        "Phase": "solid",
+        "Density": "? 1.87"
+    },
+    {
+        "Name": "Radium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "5.5"
+    },
+    {
+        "Name": "Lanthanum",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "6.162"
+    },
+    {
+        "Name": "Cerium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "6.770"
+    },
+    {
+        "Name": "Praseodymium",
+        "Appearance": "grayish",
+        "Phase": "solid",
+        "Density": "6.77"
+    },
+    {
+        "Name": "Neodymium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "7.01"
+    },
+    {
+        "Name": "Samarium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "7.52"
+    },
+    {
+        "Name": "Europium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "5.264"
+    },
+    {
+        "Name": "Gadolinium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "7.90"
+    },
+    {
+        "Name": "Terbium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "8.23"
+    },
+    {
+        "Name": "Dysprosium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "8.540"
+    },
+    {
+        "Name": "Holmium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "8.79"
+    },
+    {
+        "Name": "Erbium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "9.066"
+    },
+    {
+        "Name": "Thulium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "9.32"
+    },
+    {
+        "Name": "Ytterbium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "6.90"
+    },
+    {
+        "Name": "Lutetium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "9.841"
+    },
+    {
+        "Name": "Actinium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "10"
+    },
+    {
+        "Name": "Thorium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "11.7"
+    },
+    {
+        "Name": "Protactinium",
+        "Appearance": "bright,",
+        "Phase": "solid",
+        "Density": "15.37"
+    },
+    {
+        "Name": "Uranium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "19.1"
+    },
+    {
+        "Name": "Neptunium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "20.2"
+    },
+    {
+        "Name": "Plutonium",
+        "Appearance": "silvery",
+        "Phase": "solid",
+        "Density": "19.816"
+    }
+]
